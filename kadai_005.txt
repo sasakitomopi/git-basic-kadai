@@ -1,0 +1,3 @@
+da0f0b4 (HEAD -> main) 日本語訳を追記
+26546c3 hello_world.txtを追加
+
